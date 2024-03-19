@@ -35,4 +35,4 @@ This project is licensed under the MIT License.
 
 Acknowledgments:
 
-We extend our gratitude to the creators and maintainers of TensorFlow, Keras, and other open-source libraries utilized in this project. Additionally, we acknowledge the support provided by [Organization/Institution Name] in facilitating access to resources and datasets for research purposes.
+We extend our gratitude to the creators and maintainers of TensorFlow, Keras, and other open-source libraries utilized in this project. Additionally, we acknowledge the support provided by Charissa Poon, Petteri Teikari, Muhammad Febrian Rachmadi, Henrik Skibbe, and Kullervo Hynynen in facilitating access to the dataset for research purposes.
